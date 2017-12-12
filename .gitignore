@@ -1,0 +1,5 @@
+.idea/
+*.iml
+crypt-file
+vendor/
+glide.lock
